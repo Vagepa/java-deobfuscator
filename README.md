@@ -9,7 +9,7 @@
 Bu kod gizleme aracı herhangi bir **gui** veya **yapılandırma dosyası** sağlamaz çünkü bir **IDE**.\
 Deobfuscator'ı tercihlerinize göre yapılandırmak için **Loader** sınıfını düzenlemeniz gerekir.
 
-- https://github.com/narumii/Deobfuscator#transformers
+- https://github.com/vagepa/java-deobfuscator#transformers
 
 ---
 
@@ -40,8 +40,8 @@ Deobfuscator'ı tercihlerinize göre yapılandırmak için **Loader** sınıfın
 ### Transformatörler
 > Kod gösterme hakkında hiçbir şey bilmiyorsanız **önceden oluşturulmuş** olanları kullanın\
 > Transformatörlerin çoğu çerçevesiz yapılır, bu nedenle bazen çalışmayabilirler
-- [Bazı karartıcılar için önceden oluşturulmuş transformatörler](https://github.com/narumii/Deobfuscator/tree/master/src/main/java/uwu/narumi/deobfuscator/transformer/composed)
-- [Mevcut tüm transformatörler](https://github.com/narumii/Deobfuscator/tree/master/src/main/java/uwu/narumi/deobfuscator/transformer/impl)
+- [Bazı karartıcılar için önceden oluşturulmuş transformatörler](https://github.com/vagepa/java-deobfuscator/tree/master/src/main/java/uwu/narumi/deobfuscator/transformer/composed)
+- [Mevcut tüm transformatörler](https://github.com/vagepa/java-deobfuscator/tree/master/src/main/java/uwu/narumi/deobfuscator/transformer/impl)
 
 ---
 
