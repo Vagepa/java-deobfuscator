@@ -1,11 +1,9 @@
-<p align="center">
-     <a href="https://discord.gg/tRU27KtPAZ"><img src=""/></a>
-</p>
+
 
 ---
 
 ### Nasıl kullanılır
-- **KAHVERENGİ JAVA** öğrenin
+- **JAVA** öğrenin
 - Gizleme/bytecode/re hakkında biraz bilgi edinin *(İsteğe bağlı)*
 
 Bu kod gizleme aracı herhangi bir **gui** veya **yapılandırma dosyası** sağlamaz çünkü bir **IDE**.\
