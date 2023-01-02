@@ -4,7 +4,7 @@
 
 ### Nasıl kullanılır
 - **JAVA** öğrenin
-- Gizleme/bytecode/re hakkında biraz bilgi edinin *(İsteğe bağlı)*
+- Obfuscator/bytecode/re hakkında biraz bilgi edinin *(İsteğe bağlı)*
 
 Bu kod gizleme aracı herhangi bir **gui** veya **yapılandırma dosyası** sağlamaz çünkü bir **IDE**.\
 Deobfuscator'ı tercihlerinize göre yapılandırmak için **Loader** sınıfını düzenlemeniz gerekir.
